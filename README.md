@@ -3,7 +3,7 @@
 Welcome to the Movie Recommender project! This repository contains a content-based movie recommendation system that suggests similar movies based on user input. It uses metadata like genres, keywords, cast, crew, and overview to compute similarity scores and provide personalized recommendations.
 
 
-Streamlit Link: https://movierecommender-enp59kinfc3fw7x2emnrwq.streamlit.app
+Streamlit Link: https://movierecommendationsystem-di8t6nl6gjg6x2ptxamvb5.streamlit.app/
 
 
 ---
